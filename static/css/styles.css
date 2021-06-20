@@ -1,0 +1,63 @@
+body {
+    background-image:url(/static/back.jpg); no-repeat; background-size: 100%;
+}
+
+#maincard{
+    border:none;
+    border-radius:1rem;
+    color:white;
+    width:60rem;
+    height:20rem;
+    position:relative;
+    margin:auto;
+    margin-top:5rem;
+    flex-direction:row;
+
+}
+
+#photo_div{
+    height:11.5rem;
+    width:15rem;
+    background-image:url(/static/photo.jpg); no-repeat; background-size: 100%;
+    border-radius:50rem;
+    margin:1rem;
+    margin-top:5rem;
+}
+
+#laptop{
+    font-size:1.5rem;
+    color:white;
+    padding-right:10px;
+    margin-left:1rem;
+}
+
+#github{
+    margin-left:0.5rem;
+}
+
+#linkedin{
+    margin-left:80rem;
+}
+
+#footer{
+    color:white;
+    height:4rem;
+}
+
+#tg{
+    font-size:2rem;
+    color:white;
+    margin-left:69rem;
+}
+
+#whatsup{
+    font-size:2rem;
+    color:white;
+    margin-left:2.5rem;
+}
+
+#mail{
+    font-size:2.2rem;
+    color:white;
+    margin-left:2.5rem;
+}
