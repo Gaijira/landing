@@ -2,6 +2,28 @@ body {
     background-image:url(/static/back.jpg); no-repeat; background-size: 100%;
 }
 
+#laptop{
+    font-size:1.5rem;
+    color:white;
+    padding-right:10px;
+    margin-left:1rem;
+}
+#navbarSupportedContent{
+    position:relative;
+    display:flex;
+    justify-content:flex-end;
+    align-items:flex-end;
+}
+
+
+#github{
+    margin-left:0.5rem;
+}
+
+#git_icon{
+    margin-right:1rem;
+}
+
 #maincard{
     border:none;
     border-radius:1rem;
@@ -10,7 +32,7 @@ body {
     height:20rem;
     position:relative;
     margin:auto;
-    margin-top:5rem;
+    margin-top:3rem;
     flex-direction:row;
 
 }
@@ -24,30 +46,21 @@ body {
     margin-top:5rem;
 }
 
-#laptop{
-    font-size:1.5rem;
-    color:white;
-    padding-right:10px;
-    margin-left:1rem;
-}
-
-#github{
-    margin-left:0.5rem;
-}
-
-#linkedin{
-    margin-left:80rem;
-}
-
 #footer{
     color:white;
     height:4rem;
 }
 
+#links{
+    position:relative;
+    display:flex;
+    justify-content:flex-end;
+    align-items:flex-end;
+}
+
 #tg{
     font-size:2rem;
     color:white;
-    margin-left:69rem;
 }
 
 #whatsup{
