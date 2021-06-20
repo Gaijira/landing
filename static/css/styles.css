@@ -32,7 +32,7 @@ body {
     height:20rem;
     position:relative;
     margin:auto;
-    margin-top:3rem;
+    margin-top:2rem;
     flex-direction:row;
 
 }
@@ -51,12 +51,28 @@ body {
     height:4rem;
 }
 
+#divider1{
+    height:2px;
+    border-radius:2px;
+    background:white;
+    color:white;
+}
+
+#divider2{
+    height:2px;
+    border-radius:2px;
+    background:white;
+    color:white;
+}
+
 #links{
     position:relative;
     display:flex;
     justify-content:flex-end;
     align-items:flex-end;
 }
+
+
 
 #tg{
     font-size:2rem;
